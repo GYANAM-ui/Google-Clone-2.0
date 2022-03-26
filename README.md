@@ -46,4 +46,4 @@ To run developement server, run the following command
 
 ## Authors
 
-- [@GYANAM-ui](https://www.github.com/GYANAM-ui
+- [@GYANAM-ui](https://www.github.com/GYANAM-ui)
