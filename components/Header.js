@@ -53,7 +53,7 @@ export default function Header() {
         </form>
         <Avatar
           className="ml-auto"
-          url="https://res.cloudinary.com/dthcbsgjy/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1619081473/Profile%20Pic/Screenshot_20210123-230914_v5r9jl.png"
+          url="/static/1.jpg"
         />
       </div>
 

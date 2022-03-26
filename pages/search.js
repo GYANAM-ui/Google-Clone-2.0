@@ -11,6 +11,7 @@ export default function Search({ results }) {
     <div>
       <Head>
         <title>{router.query.term} - Google Search</title>
+        <link rel="icon" href="https://img.icons8.com/color/48/000000/google-logo.png" />
       </Head>
 
       <Header />
