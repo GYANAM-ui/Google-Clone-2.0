@@ -2,7 +2,7 @@
 A Google clone built using [NextJs](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
 
 ## Live demo
-[https://google-next-js-clone.vercel.app/](https://google-next-js-clone.vercel.app/)
+[https://google-clone-2-0-six.vercel.app/](https://google-clone-2-0-six.vercel.app/)
 
 ## How it works
 - You search for anything by entering the search query in the search bar.
@@ -18,5 +18,32 @@ A Google clone built using [NextJs](https://nextjs.org/) and [Tailwind CSS](http
 ## Platform
 Hosted through [Vercel](https://vercel.com/).
 
-## License
-Code released under the [MIT License](https://github.com/Tushar-Indurjeeth/Google-NextJs-Clone/blob/8f44c353a1edc8c726a6b5cce961b9aa51c5ea06/LICENSE).
+## Installation
+
+Install Google-Clone-2.0 with git and npm
+
+```bash
+  git clone https://github.com/GYANAM-ui/Google-Clone-2.0.git
+  cd Google-Clone-2.0
+  yarn install
+```
+    
+## Developement
+
+To run developement server, run the following command
+
+```bash
+  yarn dev 
+  or
+  npm dev
+```
+
+
+## Demo
+
+![App Screenshot](https://im.ezgif.com/tmp/ezgif-1-bb5e49fa5e.gif)
+
+
+## Authors
+
+- [@GYANAM-ui](https://www.github.com/GYANAM-ui
